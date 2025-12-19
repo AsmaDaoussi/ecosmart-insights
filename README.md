@@ -262,7 +262,7 @@ ecosmart-insights/
 ## 📸 DEMO
 
 ### Démo de projet
-![DEMO](screenshots/DEMO.mp4)
+![DEMO](screenshots/DEMO.gif)
 
 
 
